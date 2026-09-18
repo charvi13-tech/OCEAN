@@ -3,7 +3,7 @@
 // ---------------------------------------------------------------------------
 
 export const profile = {
-  name: 'Charvi Vyas',
+  name: 'Ambati Charvi Vyas',
   role: 'Full-Stack & ML Developer',
   tagline:
     'B.Tech IT grad who turns ideas into practical software — from full-stack apps to real-time ML systems.',
