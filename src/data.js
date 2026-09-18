@@ -63,7 +63,7 @@ export const links = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/charvi-vyas-ambati-6604851aa/' },
   { label: 'Email', href: 'mailto:charvivyasambati@gmail.com' },
   // Résumé PDF lives in /public and is served at the site root.
-  { label: 'Résumé', href: 'charvi-vyas-resume.pdf' },
+  { label: 'Resume', href: 'charvi_cv.pdf' },
 ]
 
 // Depth labels for the HUD as you descend (offset 0 → 1)
